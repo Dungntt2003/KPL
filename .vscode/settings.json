@@ -1,0 +1,7 @@
+{
+  "files.associations": {
+    "ctype.h": "c",
+    "scanner.h": "c",
+    "token.h": "c"
+  }
+}
